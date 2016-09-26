@@ -1,2 +1,2 @@
 # myProject
-my first attempt
+my first attempt to handle a repsitory in gitHub
